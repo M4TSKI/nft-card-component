@@ -4,7 +4,9 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Screenshot
 
-![Settings Window](https://raw.github.com/M4TSKI/nft-card-component/master/Screenshots/Settings.png)
+![desktop view](https://raw.githubusercontent.com/M4TSKI/nft-card-component/main/images/nft-desktop.png)
+
+![mobile view](https://raw.githubusercontent.com/M4TSKI/nft-card-component/main/images/nft-mobile.png)
 
 ## Built with
 
